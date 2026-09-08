@@ -1,0 +1,23 @@
+台中市立省三國小115年度家長委員會網站
+GitHub Pages 上傳說明
+
+一、請先解壓縮這個 ZIP 檔案。
+
+二、將解壓縮後的所有內容上傳到 GitHub 儲存庫最外層。
+請確認 index.html 與 assets、photos 資料夾位於同一層。
+請勿只把 ZIP 檔案直接上傳，也不要多包一層資料夾。
+
+三、到 GitHub 儲存庫的 Settings → Pages。
+在 Build and deployment 中設定：
+Source：Deploy from a branch
+Branch：main
+Folder：/(root)
+接著按 Save。
+
+四、等待 GitHub Pages 完成發布。
+網站網址通常會是：
+https://你的帳號.github.io/儲存庫名稱/
+
+五、日後更新網站時，將修改後的同名檔案重新上傳並取代即可。
+
+提醒：網站及照片發布到 GitHub Pages 後，會成為可由網路瀏覽的公開內容。
